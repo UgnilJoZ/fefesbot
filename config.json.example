@@ -1,0 +1,7 @@
+{
+	"server": "https://matrix.example.com",
+	"user": "@fefesbot:example.com",
+	"device": "ABCDEFGHIJ",
+	"access_token": "here comes the access token",
+	"room": "!uXiel3EM1ashaiphe6:example.com"
+}
